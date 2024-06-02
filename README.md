@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Balaji C
 - 👀 I’m interested in coding languages and programming
-- 🌱 I’m currently learning Japanese language 
+- 🌱 I’m currently learning RISC-V 32bit ISA for its sustainability in embeded systems and also Japanese language 
 - 📫 you can  reach me by this email bala221104@gmail.com
-- I also like video games 
+- ♥️ I also like video games 
 
 
 <!---
